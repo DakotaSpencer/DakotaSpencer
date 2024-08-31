@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+### Currently on a coding hiatus
 
 - I’m currently working on  React, Javascript, and Angular
 - I’m currently learning Angular and NextJS
